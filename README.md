@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KajalKumari</h1>
+<h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
 <h3 align="center">A passionate learner of Full-stack web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkumari677&label=Profile%20views&color=0e75b6&style=flat" alt="kajalkumari677" /> </p>
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently student at [Masai School](https://www.masaischool.com/)
 
-- 🌱I’m currently learning **Full stack web development at masai school**
-
 - 🤝 I’m looking to work as a **Web Developer**
 
-- 👨‍💻 All of my projects are available My Github Repository [https://github.com/Kajalkumari677?tab=repositories](https://github.com/Kajalkumari677?tab=repositories)
+- 🌱I’m currently learning **Full stack web development at masai school**
+
+- 👨‍💻 All of my projects are available [My Github Repository](https://github.com/Kajalkumari677?tab=repositories)
 
 - 📫 How to reach me [677kajal@gmail.com](677kajal@gmail.com)
 
