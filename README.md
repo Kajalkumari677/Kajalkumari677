@@ -4,7 +4,7 @@
   <h3 align="center">A passionate learner of Full-stack web development</h3><br>
 </div>
 <div>
-  <img src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" position="absolute" left="50%" right="50%"/>
+  <img  align="center" src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" />
   </div>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkumari677&label=Profile%20views&color=0e75b6&style=flat" alt="kajalkumari677" /> </p>
