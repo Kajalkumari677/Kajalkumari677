@@ -1,11 +1,12 @@
 <div style="background-color:green">
   <div>
-  <h1 align="left">Hi 👋, I'm Kajal Kumari</h1>
-  <h3 align="left">A passionate learner of Full-stack web development</h3><br>
-</div>
-<div>
   <img  align="center" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" />
   </div>
+  <div>
+  <h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
+  <h3 align="center">A passionate learner of Full-stack web development</h3><br>
+</div>
+
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkumari677&label=Profile%20views&color=0e75b6&style=flat" alt="kajalkumari677" /> </p>
 
