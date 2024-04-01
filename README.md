@@ -4,7 +4,7 @@
   </div>
   <div>
   <h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
-  <h3 align="center">A passionate learner of Full-stack web development</h3><br>
+  <h3 align="center">A passionate Devops Engineer</h3><br>
 </div>
 
 </div>
@@ -13,11 +13,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently student at [Masai School](https://www.masaischool.com/)
+- 🌱 I’m currently working as a **Devops Engineer**
 
-- 🤝 I’m looking to work as a **Web Developer**
+- 🔭 I was a student at [Masai School](https://www.masaischool.com/)
 
-- 🌱I’m currently learning **Full stack web development at masai school**
+- 🤝 I have done B.Tech **Lovely Professional University**
+
+
 
 - 👨‍💻 All of my projects are available [My Github Repository](https://github.com/Kajalkumari677?tab=repositories)
 
